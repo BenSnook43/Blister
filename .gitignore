@@ -103,3 +103,9 @@ htmlcov/
 # Misc
 npm-debug.log*
 yarn-debug.log*
+
+# Firebase
+serviceAccountKey.json
+**/serviceAccountKey.json
+**/service-account-key.json
+**/*serviceAccountKey*.json
