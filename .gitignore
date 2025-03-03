@@ -108,4 +108,5 @@ yarn-debug.log*
 serviceAccountKey.json
 **/serviceAccountKey.json
 **/service-account-key.json
-**/*serviceAccountKey*.json
+**/firebase-credentials.json
+**/firebase-admin-key.json
