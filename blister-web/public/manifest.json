@@ -1,0 +1,29 @@
+{
+  "name": "Blister",
+  "short_name": "Blister",
+  "icons": [
+    {
+      "src": "/logo-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#7C3AED",
+  "background_color": "#ffffff",
+  "display": "standalone"
+} 

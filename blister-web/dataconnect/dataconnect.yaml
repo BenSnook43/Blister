@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "blister-web"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "blister-web-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
